@@ -1,0 +1,30 @@
+@media (max-width: 769px) {
+  .contain-text-sobre {
+    width: 100vw;
+    padding: 0 2rem 0 2rem;
+  }
+  #sobre h2 {
+    font-size: 1.9rem;
+    margin-bottom: 2rem;
+  }
+  .text-sobre {
+    font-size: 1.2rem;
+  }
+  #home {
+    flex-direction: column-reverse;
+    padding: 5rem;
+  }
+  .home-img {
+  width: 100%;
+  }
+  .home-text {
+    width: 100%;
+    margin: 0;
+  }
+  .home-text h1 {
+    font-size: 3.7rem;
+  }
+  .home-text p {
+    font-size: 2rem;
+  }
+}
