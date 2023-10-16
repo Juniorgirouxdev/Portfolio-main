@@ -104,11 +104,13 @@ p {
   height: 4rem;
   cursor: pointer;
   border-radius: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .btn-cv {
   color: #212121;
   background-color: #00df5e;
-  font-size: 0.875rem;
   font-weight: bold;
   line-height: normal;
   border: none;
@@ -117,6 +119,9 @@ p {
 }
 
 .btn-contato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #171717;
   border: 1px solid #33333360;
   background: #f9f9f9;
